@@ -2,10 +2,8 @@
   "name": "assignment",
   "version": "0.0.0",
   "private": true,
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "npm install"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
